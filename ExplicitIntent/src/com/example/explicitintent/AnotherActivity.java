@@ -4,7 +4,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
-
+/**
+ * An activity for transit
+ * */
 public class AnotherActivity extends Activity{
 	private TextView tvInfo;
 	protected void onCreate(Bundle savedInstanceState) {
